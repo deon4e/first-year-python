@@ -1,9 +1,9 @@
-# first-year-python
+# CSC1015
 
 Computer Science 1015F and 1016S together constitute a complete Computer Science curriculum for first year students, offering an introduction to the development of algorithms and design of computer programs, along with
 other selected topics in Computer Science. CSC1015F is offered in the first semester and CSC1016S is offered in the second semester.
 
-## sylabus
+## Syllabus
 - Introduction to Computer Science (Ch. 1): What is Computer Science Applications of Computing, History of
 Computing, Computer Hardware (Machine Architecture), Computer Software (System Software, Applications),
 Algorithms, Programming Languages
